@@ -49,6 +49,10 @@ Script donde atacara a las password.
 
 ![Rubber Ducky](rubber_ducky.jpg)
 
+![BadUSB CJMCU](BadUsb1.jpeg)
+![BadUSB en mano](BadUsb2.jpeg)
+![BadUSB vista trasera](BadUsb3.jpeg)
+
 ---
 
 ## 👤 Autor
